@@ -68,3 +68,6 @@ factoryConfiguration.json
 kls_database.db
 
 .vscode
+
+# Allow gradle-wrapper.jar
+!gradle/wrapper/gradle-wrapper.jar
